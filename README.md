@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![sameer2799's GitHub | Stats](https://stats.quine.sh/sameer2799/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sameer2799)
 <!--
 **sameer2799/sameer2799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
