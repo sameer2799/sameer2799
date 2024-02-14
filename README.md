@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 This README is progressively updated, as I keep learning more and more about github and tech.
+
+Do recommend your ideas and suggestions regarding design and features in this profile. 😄
