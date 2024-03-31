@@ -4,16 +4,42 @@
 **sameer2799/sameer2799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-This README is progressively updated, as I keep learning more and more about github and tech.
 
-Do recommend your ideas and suggestions regarding design and features in this profile. 😄
+
+
+🔭 I’m currently working on
+
+- My own Chatgpt
+
+
+
+🌱 I’m currently learning
+
+- Business Data Management
+- Machine Learning
+
+
+
+👯 I’m looking to collaborate on
+
+- Any project involving Python
+
+
+
+💬 Ask me about
+
+- Computers
+- Video Games
+
+
+
+📫 How to reach me:
+
+sameersingh2799@gmail.com
+
+
+
+⚡ Fun fact:
+
+The first ever computer virus was created in 1983 by a high school student named Rich Skrenta. He wrote the virus, known as "Elk Cloner," for Apple II systems as a prank. It spread by infecting floppy disks and displayed a poem about the virus on the computer screen after the 50th boot.
