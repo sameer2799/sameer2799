@@ -1,3 +1,5 @@
+[![An image of @sameer2799's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sameer2799)](https://holopin.io/@sameer2799)
+
 # Hi there 👋
 
 Welcome to my GitHub profile! I'm Sameer, a passionate programmer and learner. Here's a little bit about me:
