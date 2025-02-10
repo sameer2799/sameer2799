@@ -12,12 +12,11 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on
 
-- My own Chatgpt
-- My portfolio site
+- A discord like application
 
 ## 🌱 I’m currently learning
 
-- Business Data Management
+- Python1q
 - Machine Learning
 
 ## 👯 I’m looking to collaborate on
